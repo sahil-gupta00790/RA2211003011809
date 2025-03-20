@@ -14,7 +14,6 @@ type config struct {
 	port          int
 	windowSize    int
 	maxResponseMs int
-	thirdPartyAPI string
 }
 
 type application struct {
